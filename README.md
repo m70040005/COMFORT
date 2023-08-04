@@ -2,8 +2,8 @@
 
 ## Important Date
 
-- [ ] Release the power data in the self-collected dataset (2023-7-28)
-- [ ] Release the acoustic data in the self-collected dataset (2023-9-15)
+- [x] Release the power data in the self-collected dataset (2023-7-28)
+- [x] Release the acoustic data in the self-collected dataset (2023-7-28)
 
 ## Dataset
 This dataset contains appliance power data and acoustic data collected from 6 houses.
